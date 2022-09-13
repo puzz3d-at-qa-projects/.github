@@ -1,4 +1,7 @@
-### [simple-gmail-sending-email-test](https://github.com/puzz3d-at-qa-projects/simple-gmail-sending-email-test)
+### [appium-test-framework-for-gmail-app](https://github.com/puzz3d-at-qa-projects/appium-test-framework-for-gmail-app)
+Framework for mobile testing: Appium, PO pattern, Webdriver singleton, logging, Configuration reader with support for different environments.
+### [pom-framework-for-ui-testing](https://github.com/puzz3d-at-qa-projects/pom-framework-for-ui-testing)
+Framework for GCloud calculator UI testing: Selenium, PO pattern, Webdriver singleton, logging, support for different environments.
 ### [email-service-smoke-test](https://github.com/puzz3d-at-qa-projects/email-service-smoke-test)
 ### [simple-google-search-webdriver-test](https://github.com/puzz3d-at-qa-projects/simple-google-search-webdriver-test)
 
